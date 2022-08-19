@@ -1,5 +1,6 @@
 # Collection on Animes and Manga
 
+[Live Demo](https://my-animelist.netlify.app) 
 
 ## Usage
 
